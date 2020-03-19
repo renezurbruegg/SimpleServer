@@ -40,8 +40,8 @@ URL: localhost:8080/api/addUser
 Body: {
 	"name":"newuser"
 }
-![](postman.jpg)
+![](https://github.com/renezurbruegg/SimpleServer/blob/master/postman.JPG)
 3. Send request.
 4. Load  http://localhost:8080/api/listUser to see changes
 #### Example output:
-![](sampleOutput.jpg)
+![](https://github.com/renezurbruegg/SimpleServer/blob/master/sampleOutput.JPG)
